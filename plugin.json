@@ -1,0 +1,12 @@
+{
+  "ID": "dff08683-899b-495d-b4ad-da03386e528c",
+  "ActionKeyword": "stream",
+  "Name": "Stream",
+  "Description": "Create a quick thought stream entry from Wox",
+  "Author": "cfe84",
+  "Version": "1.0.0",
+  "Language": "executable",
+  "Website": "http://www.fev.al",
+  "IcoPath": "img\\write.png",
+  "ExecuteFileName": "run.bat"
+}
